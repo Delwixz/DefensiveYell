@@ -7,6 +7,9 @@ Currently, it tracks:
 - **Barkskin**
 - **Berserk**
 - **Frenzied Regeneration**
+- **Shield Wall**
+- **Last Stand**
+- **Bulwark of the Righteous**
 
 This helps your raid/party know when your defensive abilities are up.
 
