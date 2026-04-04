@@ -4,7 +4,7 @@ local spells = {
     -- Druid
     ["Barkskin"] = true,
     ["Berserk"] = true,
-    ["Frenzied Regeneration"] = true
+    ["Frenzied Regeneration"] = true,
     -- Warrior
     ["Last Stand"] = true,
     ["Shield Wall"] = true,
