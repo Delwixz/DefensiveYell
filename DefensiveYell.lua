@@ -1,12 +1,16 @@
 local frame = CreateFrame("Frame")
 
 local spells = {
-    -- Bear
+    -- Druid
     ["Barkskin"] = true,
     ["Berserk"] = true,
     ["Frenzied Regeneration"] = true
     -- Warrior
-    -- Shaman
+    ["Last Stand"] = true,
+    ["Shield Wall"] = true,
+    -- Shaman, this is sad
+    -- Paladin
+    ["Bulwark of Righteous"] = true
 }
 
 local active = {}
