@@ -2,6 +2,6 @@
 ## Title: Defensive Yell |cFF00BFFF-Xerze-|r
 ## Notes: Yells when defensive cooldowns are used
 ## Author: Xerze
-## Version: 2.0
+## Version: 2.1
 
 DefensiveYell.lua
