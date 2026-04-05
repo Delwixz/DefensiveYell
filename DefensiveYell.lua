@@ -10,7 +10,9 @@ local spells = {
     ["Shield Wall"] = true,
     -- Shaman, this is sad
     -- Paladin
-    ["Bulwark of the Righteous"] = true 
+    ["Bulwark of the Righteous"] = true,
+    --Potion
+    ["Greater Stoneshield"] = true
 }
 
 local active = {}
